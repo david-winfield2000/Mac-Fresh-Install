@@ -15,6 +15,7 @@ apps = {
     "rectangle": "Rectangle.app",
     "mac-mouse-fix": "Mac Mouse Fix.app",
     "docker": "Docker.app",
+    "ghostty": "Ghostty.app",
 }
 
 
